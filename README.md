@@ -72,17 +72,9 @@ An Android alarm app with **clean UI & smart alarm features**.
 
 ---
 
-## 📊 GitHub Analytics
+### 🐍 Watch my GitHub Contribution Snake
+![snake gif](https://github.com/Rishi-scse/Rishi-scse/blob/output/snake.svg)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rishi-scse&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-scse&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<!-- Optional Streak Stats -->
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Rishi-scse&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
