@@ -1,166 +1,234 @@
-# 🎮 Welcome to Rishi's Developer Hub!
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=F21B7F&background=00000000&width=500&height=50&lines=Hi%2C+I'm+Rishi+Raj+Verma+%F0%9F%8E%AE;Level+4+CSE+Student+%F0%9F%8E%93;Android+App+Developer+%F0%9F%93%B1;Full-Stack+Engineer+%F0%9F%92%BB;UI%2FUX+Specialist+%F0%9F%8E%A8" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <a href="https://portfolio-phi-six-96.vercel.app"><b>🌐 Main Website</b></a> • 
-  <a href="https://linkedin.com/in/rishi-raj-verma-090564324"><b>💼 LinkedIn</b></a> • 
-  <a href="https://leetcode.com/Rishi-rajverma2002"><b>💡 LeetCode</b></a> • 
-  <a href="mailto:vermaankush427@gmail.com"><b>📧 Send Email</b></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,21,29,18,30,11&height=250&section=header&text=Rishi%20Raj%20Verma&fontSize=65&animation=twinkling" alt="Rishi Raj Verma profile header" />
 </p>
 
----
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There!, I am
+        <b><a target="_blank" href="https://linkedin.com/in/rishi-raj-verma-090564324">Rishi Raj Verma</a></b>
+    </samp>
+</h3>
 
-## 🎖️ Player Character Card
+<br>
+
+<p align="center">
+<samp>
+「 B.Tech CSE student passionate about building efficient, user-centric Android & Full Stack applications 」  
+</samp>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Android+Application+Developer;B.Tech+CSE+Student+%40+Galgotias;Full+Stack+Developer+%26+UI%2FUX+Engineer;Passionate+about+Building+Scalable+Mobile+Apps"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N4ZHh2NzA5bXpsZHlsNG82MTZkYWFkZjVreXBicDRqYTM4bmJkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3p50WJTYVKHvVJc2yC/giphy.gif" width="450" alt="Animated coding visual">
+</p>
+
+[![divider_cyber_cycle](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/Rishi-scse)
+
+<!-- Title -->
+<h2 align="center">📁 System Portals & Flagship Projects</h2>
+
+<p align="center">
+  <a href="https://portfolio-phi-six-96.vercel.app">
+    <img width="82%" src="https://img.shields.io/badge/🌐_PORTFOLIO_PORTAL-portfolio--phi--six--96.vercel.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Rishi's portfolio portal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rishi-scse">
+    <img width="32%" src="https://img.shields.io/badge/⚖️_LEGAL_AI_ADVISOR-Gemini_API_+_Node.js-FF6B6B?style=for-the-badge" alt="Legal AI Advisor" />
+  </a>
+  <a href="https://github.com/Rishi-scse">
+    <img width="32%" src="https://img.shields.io/badge/⏰_ADVANCED_ALARM-Kotlin_+_Room_DB-4D96FF?style=for-the-badge" alt="Advanced Alarm App" />
+  </a>
+  <a href="https://github.com/Rishi-scse">
+    <img width="32%" src="https://img.shields.io/badge/🏍️_BIKE_INFO_SYSTEM-React_+_Maps-6BCB77?style=for-the-badge" alt="Bike Info System" />
+  </a>
+</p>
+
+[![divider_cyber_cycle_mirrored](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/Rishi-scse)
+
+<h3 align="center">🐍 Interactive Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishi-scse/Rishi-scse/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="85%" />
+</p>
+
+[![divider_data_capsul](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/Rishi-scse)
 
 <div align="center">
-  <table border="0" cellpadding="8" cellspacing="0" style="border-collapse: collapse;">
+  <h3>💼 Experience & Research</h3>
+  <table border="0" cellpadding="8" cellspacing="0">
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Rank-Gold%20Developer-FFD700?style=for-the-badge&logo=gameloft&logoColor=black" alt="Rank" />
+      <td valign="top" width="50%">
+        <b>📱 Android Application Development Intern @ CodeSoft</b> <i>(Nov 2025 – Dec 2025)</i>
+        <ul>
+          <li>Developed scalable mobile applications using Kotlin/Java, Clean Architecture, and REST API integration.</li>
+          <li>Managed end-to-end lifecycle from UI design to APK generation and testing.</li>
+        </ul>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Class-Android%20%26%20Full%20Stack-8A2BE2?style=for-the-badge&logo=appstore&logoColor=white" alt="Class" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Status" />
+      <td valign="top" width="50%">
+        <b>📝 Primary Research Author @ Galgotias University</b> <i>(Feb 2026)</i>
+        <ul>
+          <li>Authored a research paper on <i>"Code Legalist: An AI-Based Legal Advisor System"</i> accepted for publication.</li>
+          <li>Conducted in-depth data modeling and analysis.</li>
+        </ul>
       </td>
     </tr>
   </table>
 </div>
 
-```yaml
-Character: Rishi Raj Verma
-Level: 4 (B.Tech CSE, 4th Year @ Galgotias University)
-Guild: CodeSoft (Android Developer Intern)
-Scroll of Fame: Primary Author of Published AI Paper: "Code Legalist" (Feb 2026)
-Daily Quest: Solving DSA problems on Leetcode (200+ Solved)
-Origin: Greater Noida, UP, India
-```
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Rishi-scse)
 
----
+# 🛠 Technologies, Projects, and Domains
 
-## 🕹️ Interactive Mini-Games
+<table border="0" cellspacing="10" cellpadding="0" align="center">
+<tr>
 
-### 🐍 Contribution Grid Snake
-A classic arcade snake game eating contributions! The snake grows longer as more code commits are made.
+<!-- LEFT: TOOLS -->
+<td width="420" valign="top" align="center">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rishi-scse/Rishi-scse/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="90%" />
-</div>
+<h3>🛠 Technologies</h3>
+<br>
 
----
+<table align="center" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="36" alt="Kotlin"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" alt="Java"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" alt="C"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" alt="C++"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" alt="MySQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="36" alt="Oracle"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" alt="React"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" alt="MongoDB"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="36" alt="Firebase"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="36" alt="Flutter"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" alt="Git"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" alt="VS Code"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="36" alt="Photoshop"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36" alt="Android"/></td>
+  </tr>
+</table>
 
-### ❌ Play Tic-Tac-Toe! ⭕
-Challenge the AI bot! Click any cell below to make your move. This will trigger a GitHub Action to update the board automatically.
+</td>
 
-<div align="center">
+<!-- PROJECTS -->
+<td width="260" valign="top" align="center">
 
-| | | |
-| :---: | :---: | :---: |
-| [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A1) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A2) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A3) |
-| [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A4) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A5) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A6) |
-| [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A7) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A8) | [ ](https://github.com/Rishi-scse/Rishi-scse/issues/new?title=ttt%3Aplay%3A9) |
+<h3>🧪 Flagship Projects</h3>
+<br>
+<ul>
+  <li><b>Legal AI Advisor</b></li>
+  <li><b>Advanced Alarm App</b></li>
+  <li><b>Bike Info System</b></li>
+</ul>
 
-*(Note: Requires setting up the Tic-Tac-Toe workflow in your repository. See the configuration instructions below!)*
-</div>
+</td>
 
----
+<!-- FOCUS AREAS -->
+<td width="260" valign="top" align="center">
 
-## 🎒 Inventory & Skill Trees
+<h3>🧠 Focus Areas</h3>
+<br>
+<ul>
+  <li>Mobile Development</li>
+  <li>Database Design (DBMS)</li>
+  <li>Natural Language Processing</li>
+  <li>UI/UX Engineering</li>
+</ul>
 
-<details open>
-  <summary><b>🔥 Active Skills (Languages & Core)</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </p>
-</details>
+</td>
 
-<details open>
-  <summary><b>🛡️ Specializations (Frameworks & Libs)</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK" />
-    <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  </p>
-</details>
+</tr>
+</table>
 
-<details open>
-  <summary><b>⚡ Power-Ups (Tools & Graphics)</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  </p>
-</details>
+[![divider_circuit_pulse_bar](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/Rishi-scse)
 
----
-
-## ⚔️ Quests Completed (Featured Projects)
-
-| Quest Title | Rewards & Loot (Tech Stack) | Achievements & Quest Summary |
-| :--- | :--- | :--- |
-| **⚖️ Legal AI Advisor** | `React` `Capacitor` `Gemini-API` `Node.js` `MongoDB` | • Designed and deployed a cross-platform mobile assistant for legal documents.<br>• Engineered **Tesseract OCR** parser to scan and extract risks from files automatically. |
-| **⏰ Advanced Alarm App** | `Kotlin` `Android-SDK` `Room-DB` `Receivers` | • Engineered high-reliability alarms using **AlarmManager** to run persistent background services.<br>• Implemented offline persistence with **Room DB** and customized snooze algorithm. |
-| **🏍️ Bike Info System** | `React.js` `Google-Maps-API` `Framer-Motion` | • Built an interactive dashboard featuring a custom **AI Assistant** for bike telemetry.<br>• Connected Google Maps to track and locate closest refueling stations. |
-
----
-
-## 📊 Live Metrics & Leaderboards
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rishi-scse&theme=tokyonight&show_icons=true&hide_border=false" width="100%" alt="Rishi's GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-scse&theme=tokyonight&layout=compact&hide_border=false" width="100%" alt="Rishi's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Rishi-scse&theme=tokyonight&hide_border=false" width="100%" alt="Rishi's Streak Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rishi-scse&theme=tokyonight&no-bg=false&margin-w=4" width="100%" alt="Rishi's Trophies" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🔗 Find Player 1 Offline
+### 📊 Vital Statistics
 
 <p align="center">
-  <a href="https://linkedin.com/in/rishi-raj-verma-090564324">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vermaankush427@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/_rishi__verma___">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-scse&theme=tokyonight" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rishi-scse&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-scse&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishi-scse&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Rishi-scse)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>Android application development</li>
+  <li>Full-stack systems using Node/React</li>
+  <li>UI/UX Design and wireframing</li>
+  <li>SQL and DBMS optimization</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="60px" alt="Pulse Icon" />
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://portfolio-phi-six-96.vercel.app">
+  <img src="https://img.shields.io/badge/Personal%20Website-Portfolio-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal Website">
+</a>
+<br><br>
+
+<a href="mailto:vermaankush427@gmail.com">
+  <img src="https://img.shields.io/badge/email-vermaankush427%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+<br><br>
+
+<a href="https://linkedin.com/in/rishi-raj-verma-090564324">
+  <img src="https://img.shields.io/badge/linkedin-rishi--raj--verma-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/Rishi-scse)
+
+<p align="center">
+⚡ Building scalable mobile systems and full stack architectures
+</p>
+<p align="center">
+Star ⭐ the repos if they helped you!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
