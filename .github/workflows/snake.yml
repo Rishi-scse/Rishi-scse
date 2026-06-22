@@ -1,26 +1,35 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
-      - cron: "0 */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Har 12 ghante me chalega
+  workflow_dispatch: # Actions tab me run karne ka button dega
+  push:
+    branches:
+      - main # Commit push hote hi turant trigger hoga
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    
     steps:
+      # Repos ko check-out karega
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      # Snake SVG generate karega
+      - name: Generate contribution grid snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Rishi-scse
-          outputs: dist/snake.svg
-
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Generated files ko 'output' branch pe push karega
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
